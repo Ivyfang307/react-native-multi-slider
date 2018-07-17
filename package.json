@@ -1,6 +1,6 @@
 {
   "name": "@ivyfang307/react-native-multi-slider",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
   "main": "MultiSlider.js",
   "repository": {
@@ -20,7 +20,7 @@
     "ios",
     "android"
   ],
-  "author": "Tomas Roos <ptomasroos@gmail.com>",
+  "author": "Ivy Fang <ivyfanglingqing@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "*",
@@ -36,7 +36,7 @@
     "eslint-plugin-react": "6.10.3"
   },
   "bugs": {
-    "url": "https://github.com/ptomasroos/react-native-multi-slider/issues"
+    "url": "https://github.com/ivyfang307/react-native-multi-slider/issues"
   },
-  "homepage": "https://github.com/ptomasroos/react-native-multi-slider#readme"
+  "homepage": "https://github.com/ivyfang307/react-native-multi-slider#readme"
 }
