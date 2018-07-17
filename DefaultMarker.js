@@ -36,25 +36,18 @@ const styles = StyleSheet.create({
   markerStyle: {
     ...Platform.select({
       ios: {
-        height: 30,
-        width: 30,
+        height: 20,
+        width: 20,
         borderRadius: 30,
         borderWidth: 1,
-        borderColor: '#DDDDDD',
-        backgroundColor: '#FFFFFF',
-        shadowColor: '#000000',
-        shadowOffset: {
-          width: 0,
-          height: 3,
-        },
-        shadowRadius: 1,
-        shadowOpacity: 0.2,
+        borderColor: 'rgb(200,160,80)',
+        backgroundColor: 'rgb(200,160,80)',
       },
       android: {
-        height: 12,
-        width: 12,
-        borderRadius: 12,
-        backgroundColor: '#0D8675',
+        height: 20,
+        width: 20,
+        borderRadius: 30,
+        backgroundColor: 'rgb(200,160,80)',
       },
     }),
   },
